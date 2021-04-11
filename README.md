@@ -10,6 +10,7 @@
 [<img align="left" alt="Munderstand | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
 
 [website]: https://Munderstand.com
 [instagram]: https://instagram.com/munderstand101
