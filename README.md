@@ -4,6 +4,8 @@ I'm a passionate software enthusiast with a deep interest in reverse engineering
 
 My goal is to uncover the intricacies of software solutions, be it web, mobile, or desktop applications, and use this knowledge to expand my understanding of software development and engineering.
 
+This is my secondary GitHub account. You can also check out my principal GitHub account: [Munderstand101][principal-github].
+
 ### Connect with me:
 
 [![Website](https://img.shields.io/badge/Website-Munderstand.com-blue?style=for-the-badge&logo=appveyor)][website]
@@ -13,3 +15,4 @@ My goal is to uncover the intricacies of software solutions, be it web, mobile, 
 [website]: https://Munderstand.com
 [instagram]: https://instagram.com/munderstand101
 [linkedin]: https://linkedin.com/in/stefan-anchidin
+[principal-github]: https://github.com/Munderstand101
