@@ -6,6 +6,10 @@ My goal is to uncover the intricacies of software solutions, be it web, mobile, 
 
 This is my secondary GitHub account. You can also check out my principal GitHub account: [Munderstand101][principal-github].
 
+I also manage an organization on GitHub called [Clone-Atera][organization-github], where I work on various software-related projects and collaborate with others. Here's our organization logo:
+
+![Clone-Atera Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4)
+
 ### Connect with me:
 
 [![Website](https://img.shields.io/badge/Website-Munderstand.com-blue?style=for-the-badge&logo=appveyor)][website]
@@ -16,3 +20,4 @@ This is my secondary GitHub account. You can also check out my principal GitHub 
 [instagram]: https://instagram.com/munderstand101
 [linkedin]: https://linkedin.com/in/stefan-anchidin
 [principal-github]: https://github.com/Munderstand101
+[organization-github]: https://github.com/Clone-Atera
