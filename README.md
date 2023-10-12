@@ -6,11 +6,9 @@ My goal is to uncover the intricacies of software solutions, be it web, mobile, 
 
 ### Connect with me:
 
-[<img align="left" alt="Munderstand.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Munderstand | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Munderstand | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+[![Website](https://img.shields.io/badge/Website-Munderstand.com-blue?style=for-the-badge&logo=appveyor)][website]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefan%20Anchidin-blue?style=for-the-badge&logo=linkedin)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-Munderstand101-blue?style=for-the-badge&logo=instagram)][instagram]
 
 [website]: https://Munderstand.com
 [instagram]: https://instagram.com/munderstand101
