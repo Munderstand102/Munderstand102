@@ -9,15 +9,16 @@ This is my secondary GitHub account. You can also check out my principal GitHub 
 I also manage an organization on GitHub called [Clone-Atera][organization-github], where I work on various software-related projects and collaborate with others. Here's our organization logo:
 
 ![Clone-Atera Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4)
+
 ### Organizations
 
-| Organization  | Icon                                  |
-| ------------- | ------------------------------------- |
-| [Organization 1][org1] | ![Organization 1 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) |
-| [Organization 2][org2] | ![Organization 2 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) |
-| [Organization 3][org3] | ![Organization 3 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) |
-| [Organization 4][org4] | ![Organization 4 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) |
-| [Organization 5][org5] | ![Organization 5 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) |
+| Icon                                  | Organization  | Description and Projects                          |
+| ------------------------------------- | ------------- | ----------------------------------------------    |
+| ![Organization 1 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) | [Organization 1][org1] | Description of Organization 1 and its projects. |
+| ![Organization 2 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) | [Organization 2][org2] | Description of Organization 2 and its projects. |
+| ![Organization 3 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) | [Organization 3][org3] | Description of Organization 3 and its projects. |
+| ![Organization 4 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) | [Organization 4][org4] | Description of Organization 4 and its projects. |
+| ![Organization 5 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) | [Organization 5][org5] | Description of Organization 5 and its projects. |
 
 [org1]: https://github.com/organization1
 [org2]: https://github.com/organization2
