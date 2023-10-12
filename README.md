@@ -9,6 +9,21 @@ This is my secondary GitHub account. You can also check out my principal GitHub 
 I also manage an organization on GitHub called [Clone-Atera][organization-github], where I work on various software-related projects and collaborate with others. Here's our organization logo:
 
 ![Clone-Atera Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4)
+### Organizations
+
+| Organization  | Icon                                  |
+| ------------- | ------------------------------------- |
+| [Organization 1][org1] | ![Organization 1 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) |
+| [Organization 2][org2] | ![Organization 2 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) |
+| [Organization 3][org3] | ![Organization 3 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) |
+| [Organization 4][org4] | ![Organization 4 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) |
+| [Organization 5][org5] | ![Organization 5 Logo](https://avatars.githubusercontent.com/u/145568005?s=200&v=4) |
+
+[org1]: https://github.com/organization1
+[org2]: https://github.com/organization2
+[org3]: https://github.com/organization3
+[org4]: https://github.com/organization4
+[org5]: https://github.com/organization5
 
 ### Connect with me:
 
